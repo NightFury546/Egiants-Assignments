@@ -22,7 +22,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 
 public class FirstPdf {
-    private static String FILE = "E:/Projects/src/Egiants-Assignments/Docs/FirstPdf.pdf";
+    private static String FILE = "E:/Projects/src/Egiants-Assignments/JavaPdfCreationDemo/Docs/FirstPdf.pdf";
     private static Font catFont = new Font(Font.FontFamily.TIMES_ROMAN, 18,
             Font.BOLD);
     private static Font redFont = new Font(Font.FontFamily.TIMES_ROMAN, 12,

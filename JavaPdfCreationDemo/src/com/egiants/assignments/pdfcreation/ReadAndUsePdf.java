@@ -11,8 +11,8 @@ import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.PdfWriter;
 
 public class ReadAndUsePdf {
-    private static String INPUTFILE = "E:/Projects/src/Egiants-Assignments/Docs/FirstPdf.pdf";
-    private static String OUTPUTFILE = "E:/Projects/src/Egiants-Assignments/Docs/ReadPdf.pdf";
+    private static String INPUTFILE = "E:/Projects/src/Egiants-Assignments/JavaPdfCreationDemo/Docs/FirstPdf.pdf";
+    private static String OUTPUTFILE = "E:/Projects/src/Egiants-Assignments/JavaPdfCreationDemo/Docs/ReadPdf.pdf";
 
     public static void main(String[] args) throws DocumentException,
             IOException {
